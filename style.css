@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  text-decoration: none;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  flex-direction: column;
+  margin: 30px;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  background-color: #FFF9F6;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.link {
+  background-color: #5C130B;
+  width: 200px;
+  margin: 0 auto;
+  padding: 40px;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
